@@ -13,12 +13,16 @@
 <br>
 🚀 <b>기술 스택</b>
 <br>
+<br>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-
-
+<br>
+<br>
+<br>
+<br>
 📆 <b>프로젝트 기간 & 팀원</b>
 <br>
-2023 05/8 ~ 6/15 1개월
+<br>
+2023년 5월 8일 ~ 6월 15일 약 1개월
 <br>
 석하림(조장)
 <br>
@@ -29,26 +33,42 @@
 홍재영(조원)
 <br>
 김정빈(조원)
-
+<br>
+<br>
+<br>
+<br>
 📑 <b>요구사항 정의서</b>
 <br>
+<br>
 ![image](https://github.com/harim-000/JEJU_TREE/assets/81612425/720dcf4f-dade-42d4-907e-192337d2c70a)
- 
+<br>
+<br>
+<br>
+<br>
 💡 <b>ERD Diagram<br></b>
 <br>
+<br>
 <img width="543" alt="jeju_tree_erd" src="https://github.com/harim-000/JEJU_TREE/assets/81612425/2a300a51-0de5-4f47-bacd-0b4121b00af6">
-
+<br>
+<br>
+<br>
+<br>
 
 👀 <b>기능 구조</b>
 <br>
+<br>
 ![image](https://github.com/harim-000/JEJU_TREE/assets/81612425/dc0e18e2-a25a-4c9f-b888-f7ce9c2bd204)
-
+<br>
+<br>
+<br>
+<br>
 ✈️ <b>기능 소개</b>
  
 
  
 
 🔎 <b>reference(API 주소 등등)</b>
+<br>
 <br>
 TMAP API 👉  https://tmapapi.sktelecom.com
  <br>
