@@ -87,15 +87,6 @@ include, 이용가이드 페이지
 <br>
 <br>
 <br>
-
-👀 <b>기능 구조</b>
-<br>
-<br>
-![image](https://github.com/harim-000/JEJU_TREE/assets/81612425/dc0e18e2-a25a-4c9f-b888-f7ce9c2bd204)
-<br>
-<br>
-<br>
-<br>
 ✈️ <b>기능 소개 1. 메인화면 슬라이드 기능 및 CSS</b>
 <br>
 (이미지를 클릭하면 gif 효과를 보실 수 있습니다.)
@@ -105,7 +96,8 @@ include, 이용가이드 페이지
 <br>
 ![슬라이드 기능설명](https://github.com/dosukyung/dosukyung/assets/128382128/c83fb22d-0d82-4667-b796-d4bfb9097686)
 <br>
-gif 용량 때문에 빠른 재생으로 git에 올렸으나 실제 프로젝트에는 3초씩 넘어가도록 설정하였습니다.
+gif 용량 때문에 빠른 재생으로 올렸으나 실제 프로젝트에는 3초씩 넘어가도록 설정하였습니다.
+<br>
 <br>
 ![메인기능구현](https://github.com/dosukyung/dosukyung/assets/128382128/9ec94a5d-e9b3-40b2-a245-fc35bb0a7d32)
 추천 장소에 마우스를 대면 hover 효과로 어둡게 블러처리가 되도록 설정하였습니다.
