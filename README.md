@@ -119,8 +119,28 @@ gif 용량 때문에 빠른 재생으로 올렸으나 실제 프로젝트에는 
 <br>
 <br>
 <br>
- 
-
+✈️ <b>기능 소개 3. Map 페이지 CSS, 사이드바, 북마크 기능</b>
+<br>
+<br>
+![북마크 기능구현](https://github.com/dosukyung/dosukyung/assets/128382128/60195949-227c-4d05-8f63-9b2fd0e32fee)
+<br>
+![화면 캡처 2023-07-05 145536](https://github.com/dosukyung/dosukyung/assets/128382128/0a02493f-1b68-4132-8335-ab8f857b9c14)
+Ajax를 사용하여 북마크 장소를 사이드바에 실시간으로 보여지게 만들었습니다.
+<br>
+<br>
+![화면 캡처 2023-07-05 151020](https://github.com/dosukyung/dosukyung/assets/128382128/b887d503-552e-4081-97ed-67f0e4eb4465)
+<br>
+![화면 캡처 2023-07-05 150417](https://github.com/dosukyung/dosukyung/assets/128382128/a18b989f-ee80-4a67-9854-e1b97eae508c)
+<br>
+북마크한 장소와 user_id 값은 DB에저장되어 한 회원이 같은 장소를 중복하여 북마크하지 않게 하기 위해
+<br>
+북마크가 추가되었을 때는 1값을 가져오고, 이미 추가 된 장소를 한번 더 눌렀을 때는 -1 값을 반환하여
+<br>
+중복추가 했을 시 "이미 등록된 장소입니다" 라고 뜨고 DB에도 같은 장소가 등록되지 않게 했습니다.
+<br>
+<br>
+<br>
+<br>
 🔎 <b>reference(API 주소 등등)</b>
 <br>
 <br>
