@@ -143,6 +143,22 @@ Ajax를 사용하여 북마크 장소를 사이드바에 실시간으로 보여�
 <br>
 <br>
 <br>
+✈️ <b>기능 소개 4. 웹 사이트 이용가이드 페이지</b>
+<br>
+(이미지를 클릭하면 gif 효과를 보실 수 있습니다.)
+<br>
+<br>
+![이용가이드1](https://github.com/dosukyung/dosukyung/assets/128382128/e75fa9b9-a07b-4351-abff-e2316511dfab)
+<br>
+![이용가이드2](https://github.com/dosukyung/dosukyung/assets/128382128/a0ded39d-9b21-4ee5-927c-d899427ba67f)
+<br>
+홈페이지의 핵심 기능들을 gif 파일로 저장하여 이용가이드 페이지에 넣어 사용자들에게 홈페이지 사용도에 대한 이해도를
+<br>
+높이도록 페이지를 제작하였습니다. 일렬로만 배치하지 않고 사진과 텍스트를 지그재그로 배치하여 단조롭지 않게 했습니다.
+<br>
+<br>
+<br>
+<br>
 🔎 <b>reference(API 주소 등등)</b>
 <br>
 <br>
